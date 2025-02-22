@@ -1,6 +1,6 @@
 
 # Performance Testing with Apache JMeter
-This repository contains my work on performance testing using Apache JMeter. The project demonstrates how to create and execute performance tests, analyze results, and generate insightful reports.Conducted load testing for [US_Bangla](https://usbair.com/) .
+This repository contains my work on performance testing using Apache JMeter. The project demonstrates how to create and execute performance tests, analyze results, and generate insightful reports. Conducted load testing for [US_Bangla](https://usbair.com/) .
 
 ##  Features
    - **Test Plan Setup:** Includes detailed test plans for performance testing.
@@ -44,13 +44,13 @@ git clone https://github.com/Akram-BSMRSTU/PerformanceTest_USBangla.git
 
 ## JMeter Performance Test Results
 
-![apdex](![Image](https://github.com/user-attachments/assets/ec17502e-c9b0-4982-b215-79a514396fbe))
+![apdex](https://github.com/user-attachments/assets/ec17502e-c9b0-4982-b215-79a514396fbe)
 
-![tps](![Image](https://github.com/user-attachments/assets/48fd63fd-cc42-4068-a58b-eb4c22de1308))
+![tps](https://github.com/user-attachments/assets/48fd63fd-cc42-4068-a58b-eb4c22de1308)
 
-![Response Time Percentiles](![Image](https://github.com/user-attachments/assets/8cd46887-fa02-4d03-9bb2-f52c9909f9ce))
+![Response Time Percentiles](https://github.com/user-attachments/assets/8cd46887-fa02-4d03-9bb2-f52c9909f9ce)
 
-![error](![Image](https://github.com/user-attachments/assets/651a951d-3336-41dc-a03e-7f0e0e9ac19b))
+![error](https://github.com/user-attachments/assets/651a951d-3336-41dc-a03e-7f0e0e9ac19b)
 
 ## Contributions
 Contributions are welcome! If you'd like to enhance this project, please fork the repository and submit a pull request.
